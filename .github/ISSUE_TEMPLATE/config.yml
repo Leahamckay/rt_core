@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussion Forum
+    url: https://github.com/Leahamckay/rt_core/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: Commercial Licensing
+    url: mailto:contact@osomi.net
+    about: Contact for commercial licensing inquiries
